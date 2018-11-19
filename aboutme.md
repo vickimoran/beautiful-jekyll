@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: This is real. This is me. I'm exactly where I'm supposed to be now.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Vicki Moran. I'm a junior engineering major at Harvey Mudd College planning to graduate in May 2020. Growing up, I always had a fond interest in building circuits (anyone remember [this guy] (https://www.elenco.com/product/snap-circuits-300-experiments/)?). since been developing the skills to design, implement and test much m
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My History
