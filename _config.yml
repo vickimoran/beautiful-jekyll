@@ -70,13 +70,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
   telephone: +18582040327
   email: "vmoran@hmc.edu"
   facebook: vjmoran7
   github: vjmoran
   yelp: vickimoran
   linkedin: victoria-moran
+#  rss: true
 #  twitter: yourname
 #  reddit: yourname
 #  google-plus: +DeanAttali
