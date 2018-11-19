@@ -71,23 +71,23 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
+  telephone: +18582040327
   email: "vmoran@hmc.edu"
   facebook: vjmoran7
   github: vjmoran
+  yelp: vickimoran
+  linkedin: victoria-moran
 #  twitter: yourname
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
