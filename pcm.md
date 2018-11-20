@@ -8,4 +8,4 @@ subtitle:
 
 ![alt text](/img/PCM2.png "Cross Point Architecture")
 
-![alt text](/img/PCM3.png "Temp v. Resistivity")
+![alt text](/img/PCM3.jpg "Temp v. Resistivity")
