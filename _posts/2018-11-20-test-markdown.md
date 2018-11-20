@@ -3,8 +3,7 @@ layout: post
 title: Hello World
 subtitle: Welcome to my website
 gh-repo: vickimoran/vickimoran.github.io
-gh-badge: [star, follow]
-tags: [test]
+tags: [personal]
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
