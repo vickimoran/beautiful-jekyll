@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: This is real. This is me. I'm exactly where I'm supposed to be now.
+subtitle: This is real. This is me. I'm exactly where I'm supposed to be now. Gonna let the light shine on me!
 ---
 
 My name is Vicki Moran. Growing up, I always had a fond interest in building circuits (anyone remember [this guy](https://www.elenco.com/product/snap-circuits-300-experiments/)?). since been developing the skills to design, implement and test much m
