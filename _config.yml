@@ -24,7 +24,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "/Victoria_Moran.pdf"
+  Resume: "Victoria_Moran.pdf"
   Projects:
     - Phase Change Memory Simulations: "pcm"
     - Autonomous Underwater Vehicle: "auv"
