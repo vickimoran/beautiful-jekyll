@@ -26,9 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Resume: "Victoria_Moran.pdf"
   Projects:
-    - Phase Change Memory Simulations: "pcm"
+    - PCM Simulations: "pcm"
     - Autonomous Underwater Vehicle: "auv"
-    - Toyota Motor Fuel Cell Vehicles: "tmfc"
+    - Toyota Fuel Cell Vehicles: "tmfc"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
