@@ -4,7 +4,8 @@ title: Phase Change Memory Simulations
 subtitle: 
 ---
 
-![phases](/img/PCM1.png =200x "GST Phases")
+![phases](/img/PCM1.png "GST Phases")
+<img src="/img/PCM1.png" width="40%">.
 
 ![architecture](/img/PCM2.png =200x "Cross Point Architecture")
 
