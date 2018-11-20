@@ -5,8 +5,8 @@ subtitle:
 ---
 
 ![phases](/img/PCM1.png "GST Phases")
-<img src="/img/PCM1.png" width="40%">.
+<img src="/img/PCM1.png" alt="GST Phases" width="200">.
 
-![architecture](/img/PCM2.png =200x "Cross Point Architecture")
+<img src="/img/PCM2.png" alt="Cross Point Architecture" width="500">
 
-![graph](/img/PCM3.jpg =200x "Temp v. Resistivity")
+<img src="/img/PCM3.jpg" alt="Temp v. Resistivity" width="500">
