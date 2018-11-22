@@ -12,7 +12,6 @@ My name is Vicki Moran. Growing up, I always had a fond interest in building cir
 
 <span class="fa fa-file-text-o about-icon"></span> Check out my **projects** and [resume](https://vickimoran.github.io/Victoria_Moran.pdf)
 
-<span class="fa fa-microchip about-icon"></span> Microprocessors are fun!
 
 
 ## Contact Me
