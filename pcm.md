@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phase Change Memory Simulations
-subtitle: 
+subtitle: Determining Effects of Selector Diode Quantity on Array Size</br></br>2018
 ---
 
 <img src="/img/PCM1.png" alt="GST Phases" width="700">.
