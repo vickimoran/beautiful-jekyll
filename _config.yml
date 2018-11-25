@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "Victoria_Moran.pdf"
   Projects:
+    - Digital Audiovisual Synthesizer: "davs"
     - PCM Simulations: "pcm"
     - Autonomous Underwater Vehicle: "auv"
     - Vehicular Child Safety Device: "vcsd"
