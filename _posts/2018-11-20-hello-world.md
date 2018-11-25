@@ -6,3 +6,4 @@ gh-repo: vickimoran/vickimoran.github.io
 tags: [personal]
 ---
 
+I'm happy that you're here! I spontaneously decided to make a website to document my projects ande experiences. PLease feel free to explore using the tabs at the upper right of the page. Let me know if you have any questions or want to reach out!
