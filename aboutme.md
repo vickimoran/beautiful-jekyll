@@ -18,4 +18,5 @@ My name is Vicki Moran. Growing up, I always had a fond interest in building cir
 
 By Phone:  **(858) 204-0327** 
 
-By Email:  **<vmoran@hmc.edu>** (school) | **<vicki_moran@outlook.com>** (personal)
+By Email:  **<vmoran@hmc.edu>** (school) | 
+**<vicki_moran@outlook.com>** (personal)
