@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autonomous Underwater Vehicle
-subtitle: Underwater Acoustic Tracking of a Beacon
+subtitle: Underwater Acoustic Tracking of a Beacon</br>Spring 2018
 ---
 
 Find the final report [here](https://vickimoran.github.io/Final_Report.pdf), detailing the creation of an autonomous underwater vehicle that can navigate to an underwater acoustic beacon and collect data about the water surrounding the beacon.
