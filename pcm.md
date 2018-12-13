@@ -23,7 +23,7 @@ The ultimate goal of the simulation framework is thus to **quantify the effects 
 
 Verilog-A models the hardware of the PCM device and selector diode, and HSPICE describes the netlist of the full array model for simulation. The resulting full array model includes drivers, PCM devices, selector diodes, and wire parasitics.
 
-<img src="/img/full-array-with-drivers.png" alt="Full Array Model" width="600" style="display:inline"> <img src="/img/selector-schematic.png" alt="Selector Design" width="150" style="float:right">
+<img src="/img/full-array-with-drivers.png" alt="Full Array Model" width="600" style="float:left"> <img src="/img/selector-schematic.png" alt="Selector Design" width="150" style="float:right">
 
 Though the full array model matches actual behavior closely, large arrays take days to run or fail altogether. A simple cell model replaces the PCM device of each non-target cell with a simple resistor to decrease runtime. This relies on the underlying assumption that the resistance in other cells remain constant. 
 
