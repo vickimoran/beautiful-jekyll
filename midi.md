@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Audivisual Synthesizer
+title: MIDI Visualizer
 subtitle: Record and Play Music with LED Visualizations</br></br>Fall 2018
 ---
 
@@ -8,4 +8,4 @@ subtitle: Record and Play Music with LED Visualizations</br></br>Fall 2018
   <source src="/img/MIDIvisualizer.mp4" type="video/mp4">
 </video>
 
-I describe the project in this [proposal](https://vickimoran.github.io/uPs_Proposal.pdf).
+I comprehensively describe the project in this [report](https://vickimoran.github.io/moran_rosen.pdf).
