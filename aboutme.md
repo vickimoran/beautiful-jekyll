@@ -8,11 +8,11 @@ My name is Vicki Moran. Growing up, I always had a fond interest in building cir
 
 <span class="fa fa-graduation-cap about-icon"></span>  Working towards a Bachelor of Science in **Engineering** from *Harvey Mudd College* with a planned graduation date of May 2020
 
-<span class="fa fa-globe about-icon"></span>  Currently studying abroad for a semester at University College London 
+<span class="fa fa-map-pin about-icon"></span>  Currently studying abroad for a semester at University College London 
 
 <span class="fa fa-heart about-icon"></span>  Love music, traveling, weightlifting, and philosophical debates
 
-<span class="fa fa-file-text-o about-icon"></span>  Check out my **projects** and [resume](https://vickimoran.github.io/Victoria_Moran.pdf) to see what I've been working on
+<span class="fa fa-files-o about-icon"></span>  Check out my **projects** and [resume](https://vickimoran.github.io/Victoria_Moran.pdf) to see what I've been working on
 
 
 
