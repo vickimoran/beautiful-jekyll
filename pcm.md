@@ -21,12 +21,12 @@ Selectors, which can be either transistors or diodes, can mitigate these sneak p
 
 The ultimate goal of the simulation framework is thus to **quantify the effects of diode leakage on maximum array size** and determine the quality of diodes necessary for ideal performance.
 
-Verilog-A models the hardware of the PCM device and selector diode, and HSPICE describes the netlist of the full array model for simulation. The resulting full array model includes drivers, PCM devices, selector diodes, and wire parasitics.
+We used Verilog-A to model the hardware of the PCM device and selector diode, and HSPICE to describe the netlist of the full array model for simulation. The resulting full array model includes drivers, PCM devices, selector diodes, and wire parasitics.
 
 <img src="/img/full-array-with-drivers.png" alt="Full Array Model" width="600"> <img src="/img/selector-schematic.png" alt="Selector Design" width="150" style="float:right">
 
-Though the full array model matches actual behavior closely, large arrays take days to run or fail altogether. A simple cell model replaces the PCM device of each non-target cell with a simple resistor to decrease runtime. This relies on the underlying assumption that the resistance in other cells remain constant. 
+Though the full array model matches actual behavior closely, large arrays take days to run or fail altogether. We instead used a simple cell model which replaces the PCM device of each non-target cell with a simple resistor to decrease runtime. This relies on the underlying assumption that the resistance in other cells remain constant. 
 
 <img src="/img/PCM Cell.png" alt="Full Array Model" width="400">
 
-Credit: *Carla Becker, Hamzah Khan, Josephine King, Matthew Spencer*
+Acknowledgements: *Carla Becker, Hamzah Khan, Josephine King, Matthew Spencer*
