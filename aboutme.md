@@ -8,7 +8,7 @@ My name is Vicki Moran. Growing up, I always had a fond interest in building cir
 
 <span class="fa fa-graduation-cap about-icon"></span>  Working towards a Bachelor of Science in **Engineering** from *Harvey Mudd College* with a planned graduation date of May 2020
 
-<span class="fa fa-map-pin about-icon"></span>  Currently studying abroad for a semester at University College London 
+<span class="fa fa-square about-icon"></span>  Currently an Electrical Engineering intern at Square
 
 <span class="fa fa-heart about-icon"></span>  Love music, traveling, weightlifting, and philosophical debates
 
