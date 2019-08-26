@@ -2,7 +2,7 @@
 layout: post
 title: Life of a Tech Intern
 subtitle: My Take on the 9-to-5
-bigimg: /img/hack.jpg
+bigimg: /img/hack.JPG
 tags: [internship, tech]
 ---
 
