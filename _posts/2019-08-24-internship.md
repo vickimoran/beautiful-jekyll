@@ -19,10 +19,11 @@ I'm nearing the end of my internship with Square as an Electrical Engineering In
 - One-on-one's really benefit both people (most people love sharing their experience and knowledge)
 - The Bay Area has so! many! tech! interns! and they all have so much in common
 - Few people get in to the office before 9, most get there 10 or after, and working from home or vacationing is the norm
-- San Francisco is a great city but the widespread homelessness is really sad and often ignored
-- Diversity still kinda sucks in tech companies, especially in engineering groups and higher levels
+- San Fran hosts great events and delicious food but everything is so expensive
+- Homelessness is a huge problem that most people ignore
+- Diversity still kinda sucks in tech companies, especially in engineering and senior positions
 - If it's Monday or Friday, almost everyone you talk to is gonna ask you about the weekend
-- Workplace conversations are hella predictable (weather, cars, sports, tech, coffee, China)
+- Workplace conversations are hella predictable (weather, cars, sports, tech, coffee)
 - Actually doing something can teach you so much more than learning it in a classroom
 - Finding genuine friends at work can make the day go by much faster
 - Basically everyone drinks coffee and depends on caffeine
