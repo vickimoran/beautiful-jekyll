@@ -8,9 +8,11 @@ My name is Vicki Moran. Growing up, I always had a fond interest in building cir
 
 <span class="fa fa-graduation-cap about-icon"></span>  Working towards a Bachelor of Science in **Engineering** from *Harvey Mudd College* with a planned graduation date of May 2020
 
-<span class="fa fa-square about-icon"></span>  Currently an Electrical Engineering intern at Square
+<span class="fa fa-square about-icon"></span>  Recently completed an Electrical Engineering internship at Square
 
 <span class="fa fa-heart about-icon"></span>  Love music, traveling, weightlifting, and philosophical debates
+
+<span class="fa fa-group about-icon"></span>  Advocate for minorities in STEM, sustainability, and mental health
 
 <span class="fa fa-files-o about-icon"></span>  Check out my **projects** and [resume](https://vickimoran.github.io/Victoria_Moran.pdf) to see what I've been working on
 
